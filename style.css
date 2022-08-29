@@ -1,0 +1,15 @@
+img {
+  width: calc(90% / 3);
+  /* height: 400px; */
+  margin: calc(10% / 6);
+}
+
+h1 {
+  border-bottom: 1px solid #f1f1f1;
+  padding: 0.8em 0;
+  text-transform: uppercase;
+  margin-left: calc(10% / 6);
+  width: calc(90% / 3);
+  font-size: 1.4em;
+  font-family: Raleway, sans-serif;
+}
